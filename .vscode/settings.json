@@ -1,0 +1,8 @@
+{
+	"eslint.enable": false,
+	"eslint.codeAction.disableRuleComment": {
+		"enable": false
+	},
+	"eslint.quiet": true
+
+}
