@@ -18,7 +18,7 @@ and why it isn't too late
 
 _27 September 2021_
 <br />
-<tfoot align="left"> ETS PMO </tfoot>
+<tfoot align="left"> Mingyao Lin, Technology Project </tfoot>
 
 ---
 
@@ -131,13 +131,16 @@ If you need a reminder or a first look at BDD, check out the following links
 - [A python tutorial from the BDD _behave_ library](https://behave.readthedocs.io/en/stable/tutorial.html)
 - [Dan North's 2003 origination post for BDD](https://dannorth.net/introducing-bdd/)
 - [BDD Explanation page](https://behave.readthedocs.io/en/stable/philosophy.html)
+- [Differences between BDD & TDD](https://cucumber.io/blog/bdd/bdd-vs-tdd/)
+- [TDD, BDD and ATDD](https://www.browserstack.com/guide/tdd-vs-bdd-vs-atdd)
 
+Note: 
+
+there is probably some other good things
 ---
 
 # Thanks for reading
 
 _Feel free to provide feedback on this presentation to_
 
-_stuart.macdonald@mpi.govt.nz_
-
-_mb 027 324 3245_
+_mingyao.lin@mpi.govt.nz_
