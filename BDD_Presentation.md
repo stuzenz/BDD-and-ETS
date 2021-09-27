@@ -12,7 +12,6 @@ backgroundTransition: fade
 
 How ETS can benefit from BDD
 
-and why it isn't too late
 
 <br />
 
@@ -134,9 +133,6 @@ If you need a reminder or a first look at BDD, check out the following links
 - [Differences between BDD & TDD](https://cucumber.io/blog/bdd/bdd-vs-tdd/)
 - [TDD, BDD and ATDD](https://www.browserstack.com/guide/tdd-vs-bdd-vs-atdd)
 
-Note: 
-
-there is probably some other good things
 ---
 
 # Thanks for reading
