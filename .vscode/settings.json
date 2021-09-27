@@ -3,6 +3,9 @@
 	"eslint.codeAction.disableRuleComment": {
 		"enable": false
 	},
-	"eslint.quiet": true
+	"eslint.quiet": true,
+	"eslint.options": {
+	
+	}
 
 }
